@@ -1,0 +1,9 @@
+# temperatures: 1
+# arg string: 
+#4  2  -0.5  0.015625  0.5   0.5  0.015625  0.5   1000000  1 1 1 gaussian  0.6541  0.01859375 0  4  360   
+Use of uninitialized value $T in hash element at /home/tomfy/mcmc_toy/src/run_multi_nT.pl line 332.
+Use of uninitialized value in addition (+) at /home/tomfy/mcmc_toy/src/run_multi_nT.pl line 332.
+Use of uninitialized value $T in hash element at /home/tomfy/mcmc_toy/src/run_multi_nT.pl line 333.
+Use of uninitialized value in addition (+) at /home/tomfy/mcmc_toy/src/run_multi_nT.pl line 333.
+Argument "" isn't numeric in sort at /home/tomfy/mcmc_toy/src/run_multi_nT.pl line 284.
+Illegal division by zero at /home/tomfy/mcmc_toy/src/run_multi_nT.pl line 287.
