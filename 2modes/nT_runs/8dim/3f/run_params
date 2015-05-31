@@ -1,0 +1,21 @@
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 8; 2; -0.5; 0.015625; 0.5; 0.5; 0.015625; 0.5; 1000000; 11; 1; 1; gaussian; 0.4075; 0.0131477667126874; 0; 3; 1; gaussian; 0.4075; 0.0227725999524374; 0; 9; 1; gaussian; 0.4075; 0.0394433001380621; 0; 27; 1; gaussian; 0.4075; 0.0683177998573121; 0; 81; 1; gaussian; 0.4075; 0.118329900414186; 0; 243; 1; gaussian; 0.4075; 0.204953399571936; 0; 729; 1; gaussian; 0.4075; 0.354989701242559; 0; 2187; 1; gaussian; 0.4075; 0.614860198715809; 0; 6561; 1; gaussian; 0.4075; 1.06496910372768; 0; 19683; 1; gaussian; 0.4075; 1.84458059614743; 0; 59049; 1; gaussian; 0.4075; 3.19490731118303; 0; 4; 360; 530044; mcmc; 1; 
+# n_dimensions: 8 
+# n_peaks: 2 
+# peak 0; position,sigma,weight: -0.50000  0.01562  0.50000 
+# peak 1; position,sigma,weight:  0.50000  0.01562  0.50000 
+# target mean, variance:                0   0.250244140625 
+# burn-in, mcmc steps: 0 1000000 
+# n temperatures: 11 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.40750  0.01315  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   3.00000  1.00000      gaussian  0.40750  0.02277  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   9.00000  1.00000      gaussian  0.40750  0.03944  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  27.00000  1.00000      gaussian  0.40750  0.06832  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  81.00000  1.00000      gaussian  0.40750  0.11833  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  243.00000  1.00000      gaussian  0.40750  0.20495  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  729.00000  1.00000      gaussian  0.40750  0.35499  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  2187.00000  1.00000      gaussian  0.40750  0.61486  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  6561.00000  1.00000      gaussian  0.40750  1.06497  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  19683.00000  1.00000      gaussian  0.40750  1.84458  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  59049.00000  1.00000      gaussian  0.40750  3.19491  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 530044  chain_type: mcmc neighbor_swap_only: 1 
