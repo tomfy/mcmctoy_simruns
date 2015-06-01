@@ -1,0 +1,40 @@
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 2; 6; 0.5; 0.02; 1.0; 1.5; 0.02; 0.5; 2.5; 0.02; 0.25; 3.5; 0.02; 0.125; 4.5; 0.02; 0.0625; 5.5; 0.02; 0.03125; 1000000; 26; 1; 1; gaussian; 0.8121; 0.0336582827844797; 0; 1.5; 1; gaussian; 0.8121; 0.0412228092201393; 0; 2.25; 1; gaussian; 0.8121; 0.0504874241767195; 0; 3.375; 1; gaussian; 0.8121; 0.0618342138302089; 0; 5.0625; 1; gaussian; 0.8121; 0.0757311362650792; 0; 7.59375; 1; gaussian; 0.8121; 0.0927513207453134; 0; 11.390625; 1; gaussian; 0.8121; 0.113596704397619; 0; 17.0859375; 1; gaussian; 0.8121; 0.13912698111797; 0; 25.62890625; 1; gaussian; 0.8121; 0.170395056596428; 0; 38.443359375; 1; gaussian; 0.8121; 0.208690471676955; 0; 57.6650390625; 1; gaussian; 0.8121; 0.255592584894642; 0; 86.49755859375; 1; gaussian; 0.8121; 0.313035707515433; 0; 129.746337890625; 1; gaussian; 0.8121; 0.383388877341964; 0; 194.619506835938; 1; gaussian; 0.8121; 0.469553561273149; 0; 291.929260253906; 1; gaussian; 0.8121; 0.575083316012945; 0; 437.893890380859; 1; gaussian; 0.8121; 0.704330341909723; 0; 656.840835571289; 1; gaussian; 0.8121; 0.862624974019418; 0; 985.261253356934; 1; gaussian; 0.8121; 1.05649551286459; 0; 1477.8918800354; 1; gaussian; 0.8121; 1.29393746102913; 0; 2216.8378200531; 1; gaussian; 0.8121; 1.58474326929688; 0; 3325.25673007965; 1; gaussian; 0.8121; 1.94090619154369; 0; 4987.88509511948; 1; gaussian; 0.8121; 2.37711490394532; 0; 7481.82764267921; 1; gaussian; 0.8121; 2.91135928731554; 0; 11222.7414640188; 1; gaussian; 0.8121; 3.56567235591797; 0; 16834.1121960282; 1; gaussian; 0.8121; 4.3670389309733; 0; 25251.1682940423; 1; gaussian; 0.8121; 5.34850853387696; 0; 4; 360; 578055; mcmc; 1; 
+# n_dimensions: 2 
+# n_peaks: 6 
+# peak 0; position,sigma,weight:  0.50000  0.02000  1.00000 
+# peak 1; position,sigma,weight:  1.50000  0.02000  0.50000 
+# peak 2; position,sigma,weight:  2.50000  0.02000  0.25000 
+# peak 3; position,sigma,weight:  3.50000  0.02000  0.12500 
+# peak 4; position,sigma,weight:  4.50000  0.02000  0.06250 
+# peak 5; position,sigma,weight:  5.50000  0.02000  0.03125 
+# target mean, variance:    1.40476190476    1.41990113379 
+# burn-in, mcmc steps: 0 1000000 
+# n temperatures: 26 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.81210  0.03366  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.50000  1.00000      gaussian  0.81210  0.04122  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   2.25000  1.00000      gaussian  0.81210  0.05049  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   3.37500  1.00000      gaussian  0.81210  0.06183  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   5.06250  1.00000      gaussian  0.81210  0.07573  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   7.59375  1.00000      gaussian  0.81210  0.09275  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  11.39062  1.00000      gaussian  0.81210  0.11360  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  17.08594  1.00000      gaussian  0.81210  0.13913  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  25.62891  1.00000      gaussian  0.81210  0.17040  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  38.44336  1.00000      gaussian  0.81210  0.20869  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  57.66504  1.00000      gaussian  0.81210  0.25559  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  86.49756  1.00000      gaussian  0.81210  0.31304  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  129.74634  1.00000      gaussian  0.81210  0.38339  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  194.61951  1.00000      gaussian  0.81210  0.46955  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  291.92926  1.00000      gaussian  0.81210  0.57508  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  437.89389  1.00000      gaussian  0.81210  0.70433  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  656.84084  1.00000      gaussian  0.81210  0.86262  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  985.26125  1.00000      gaussian  0.81210  1.05650  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  1477.89188  1.00000      gaussian  0.81210  1.29394  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  2216.83782  1.00000      gaussian  0.81210  1.58474  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  3325.25673  1.00000      gaussian  0.81210  1.94091  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  4987.88510  1.00000      gaussian  0.81210  2.37711  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  7481.82764  1.00000      gaussian  0.81210  2.91136  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  11222.74146  1.00000      gaussian  0.81210  3.56567  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  16834.11220  1.00000      gaussian  0.81210  4.36704  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  25251.16829  1.00000      gaussian  0.81210  5.34851  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 578055  chain_type: mcmc neighbor_swap_only: 1 
