@@ -1,0 +1,22 @@
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 2; 6; 0.5; 0.02; 1.0; 1.5; 0.02; 0.5; 2.5; 0.02; 0.25; 3.5; 0.02; 0.125; 4.5; 0.02; 0.0625; 5.5; 0.02; 0.03125; 1000000; 8; 1; 1; gaussian; 0.8121; 0.0336582827844797; 0; 4.20302655461288; 1; gaussian; 0.8121; 0.0690038022371944; 0; 17.665432218781; 1; gaussian; 0.8121; 0.141466656325837; 0; 74.2482807142504; 1; gaussian; 0.8121; 0.290024813172184; 0; 312.067495476346; 1; gaussian; 0.8121; 0.594588113129789; 0; 1311.62797031862; 1; gaussian; 0.8121; 1.21898199125933; 0; 5512.80718902213; 1; gaussian; 0.8121; 2.49906962854167; 0; 23170.4750059208; 1; gaussian; 0.8121; 5.12341367885783; 0; 4; 360; 364035; mcmc; 1; 
+# n_dimensions: 2 
+# n_peaks: 6 
+# peak 0; position,sigma,weight:  0.50000  0.02000  1.00000 
+# peak 1; position,sigma,weight:  1.50000  0.02000  0.50000 
+# peak 2; position,sigma,weight:  2.50000  0.02000  0.25000 
+# peak 3; position,sigma,weight:  3.50000  0.02000  0.12500 
+# peak 4; position,sigma,weight:  4.50000  0.02000  0.06250 
+# peak 5; position,sigma,weight:  5.50000  0.02000  0.03125 
+# target mean, variance:    1.40476190476    1.41990113379 
+# burn-in, mcmc steps: 0 1000000 
+# n temperatures: 8 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.81210  0.03366  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   4.20303  1.00000      gaussian  0.81210  0.06900  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  17.66543  1.00000      gaussian  0.81210  0.14147  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  74.24828  1.00000      gaussian  0.81210  0.29002  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  312.06750  1.00000      gaussian  0.81210  0.59459  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  1311.62797  1.00000      gaussian  0.81210  1.21898  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  5512.80719  1.00000      gaussian  0.81210  2.49907  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  23170.47501  1.00000      gaussian  0.81210  5.12341  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 364035  chain_type: mcmc neighbor_swap_only: 1 
