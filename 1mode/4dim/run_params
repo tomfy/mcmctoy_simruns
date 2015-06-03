@@ -1,0 +1,10 @@
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 4; 1; 0.0; 1.0; 1.0; 100000; 1; 1; 1; gaussian; 0.6541; 155.97568; 0; 4; 360; 518732; mcmc; 1; 
+# n_dimensions: 4 
+# n_peaks: 1 
+# peak 0; position,sigma,weight:  0.00000  1.00000  1.00000 
+# target mean, variance:                0                1 
+# burn-in, mcmc steps: 0 100000 
+# n temperatures: 1 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.65410 155.97568  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 518732  chain_type: mcmc neighbor_swap_only: 1 
