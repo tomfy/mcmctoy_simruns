@@ -1,0 +1,22 @@
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 3; 6; 0.5; 0.02; 1.0; 1.5; 0.02; 0.3; 2.5; 0.02; 0.09; 3.5; 0.02; 0.027; 4.5; 0.02; 0.0081; 5.5; 0.02; 0.00243; 1000000; 8; 1; 1; gaussian; 0.719; 0.0274818728134262; 0; 4.20302655461288; 1; gaussian; 0.719; 0.0563413685976822; 0; 17.665432218781; 1; gaussian; 0.719; 0.115507041205324; 0; 74.2482807142504; 1; gaussian; 0.719; 0.23680426833929; 0; 312.067495476346; 1; gaussian; 0.719; 0.48547916143074; 0; 1311.62797031862; 1; gaussian; 0.719; 0.995294628075711; 0; 5512.80718902213; 1; gaussian; 0.719; 2.04048180720459; 0; 23170.4750059208; 1; gaussian; 0.719; 4.18324975146576; 0; 4; 360; 269435; mcmc; 1; 
+# n_dimensions: 3 
+# n_peaks: 6 
+# peak 0; position,sigma,weight:  0.50000  0.02000  1.00000 
+# peak 1; position,sigma,weight:  1.50000  0.02000  0.30000 
+# peak 2; position,sigma,weight:  2.50000  0.02000  0.09000 
+# peak 3; position,sigma,weight:  3.50000  0.02000  0.02700 
+# peak 4; position,sigma,weight:  4.50000  0.02000  0.00810 
+# peak 5; position,sigma,weight:  5.50000  0.02000  0.00243 
+# target mean, variance:   0.924194237599   0.586362592325 
+# burn-in, mcmc steps: 0 1000000 
+# n temperatures: 8 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.71900  0.02748  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   4.20303  1.00000      gaussian  0.71900  0.05634  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  17.66543  1.00000      gaussian  0.71900  0.11551  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  74.24828  1.00000      gaussian  0.71900  0.23680  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  312.06750  1.00000      gaussian  0.71900  0.48548  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  1311.62797  1.00000      gaussian  0.71900  0.99529  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  5512.80719  1.00000      gaussian  0.71900  2.04048  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  23170.47501  1.00000      gaussian  0.71900  4.18325  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 269435  chain_type: mcmc neighbor_swap_only: 1 
