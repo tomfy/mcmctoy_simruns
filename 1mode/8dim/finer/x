@@ -121,3 +121,30 @@
 # 1 
 # arg string: 
 #8  1  0.0  1.0  1.0   1000000  1 1 1 gaussian  0.4075  1.68291413922398  0  4  360   
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 8; 1; 0.0; 1.0; 1.0; 1000000; 1; 1; 1; gaussian; 0.4075; 1.68291413922398; 0; 4; 360; 569726; mcmc; 1; 
+# n_dimensions: 8 
+# n_peaks: 1 
+# peak 0; position,sigma,weight:  0.00000  1.00000  1.00000 
+# target mean, variance:                0                1 
+# burn-in, mcmc steps: 0 1000000 
+# n temperatures: 1 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.40750  1.68291  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 569726  chain_type: mcmc neighbor_swap_only: 1 
+# averages based on 100 reps. 
+1.68291413922398    1000000     0.04459 +- 3.958e-05       1e+06 +-        0    0.629346 +- 0.0002094    0.051395 +- 0.0002412   0.0496818 +- 0.0002339    0.059807 +- 0.0002344   0.0214321 +- 9.488e-05     0.00055991 +- 2.637e-05  0.00754632 +- 0.0002387   0.0103171 +- 0.0003695  7.1397e-05 +- 8.044e-06          -1 +-        0  
+# 1 
+# arg string: 
+#8  1  0.0  1.0  1.0   1000000  1 1 1 gaussian  0.4075  2.00133346830384  0  4  360   
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 8; 1; 0.0; 1.0; 1.0; 1000000; 1; 1; 1; gaussian; 0.4075; 2.00133346830384; 0; 4; 360; 756298; mcmc; 1; 
+# n_dimensions: 8 
+# n_peaks: 1 
+# peak 0; position,sigma,weight:  0.00000  1.00000  1.00000 
+# target mean, variance:                0                1 
+# burn-in, mcmc steps: 0 1000000 
+# n temperatures: 1 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.40750  2.00133  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 756298  chain_type: mcmc neighbor_swap_only: 1 
+# averages based on 100 reps. 
+2.00133346830384    1000000   0.0221049 +- 2.588e-05       1e+06 +-        0     0.76692 +- 0.0002146   0.0789297 +- 0.0003335   0.0762713 +- 0.000341   0.0925568 +- 0.0003878   0.0331291 +- 0.0001522     0.00105071 +- 5.477e-05   0.0110003 +- 0.0003488   0.0141493 +- 0.000511  0.000181604 +- 2.356e-05          -1 +-        0  
