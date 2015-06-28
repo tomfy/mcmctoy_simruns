@@ -1,0 +1,14 @@
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 2; 2; -0.5; 0.0460875; 0.5; 0.5; 0.046875; 0.5; 10000; 4; 1; 1; gaussian; 0.8121; 0.0775613053914853; 0; 10.079368399159; 1; gaussian; 0.8121; 0.246241795540941; 0; 101.593667325965; 1; gaussian; 0.8121; 0.781768970560456; 0; 1024; 1; gaussian; 0.8121; 2.48196177252753; 0; 4; 360; 191365; mcmc; 1; 
+# n_dimensions: 2 
+# n_peaks: 2 
+# peak 0; position,sigma,weight: -0.50000  0.04609  0.50000 
+# peak 1; position,sigma,weight:  0.50000  0.04688  0.50000 
+# target mean, variance:                0   0.252160661641 
+# burn-in, mcmc steps: 0 10000 
+# n temperatures: 4 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.81210  0.07756  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  10.07937  1.00000      gaussian  0.81210  0.24624  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  101.59367  1.00000      gaussian  0.81210  0.78177  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  1024.00000  1.00000      gaussian  0.81210  2.48196  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 191365  chain_type: mcmc neighbor_swap_only: 1 

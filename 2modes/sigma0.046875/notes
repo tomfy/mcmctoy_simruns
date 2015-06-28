@@ -1,0 +1,4 @@
+the target distribution here is a mixture of normals
+with means +- 0.5, equal weights, and
+sigmas both 0.046875 ( = 3/64 ), i.e.
+3 times as much as the other 2-peak runs.
