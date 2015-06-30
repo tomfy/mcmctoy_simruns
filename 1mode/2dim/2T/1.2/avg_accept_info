@@ -1,0 +1,125 @@
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 2; 1; 0.0; 1.0; 1.0; 100000; 2; 1; 1; gaussian; 0.8121; 0.848528137423857; 0; 1; 1; gaussian; 0.8121; 0.848528137423857; 0; 4; 360; 130440; mcmc; 1; 
+# n_dimensions: 2 
+# n_peaks: 1 
+# peak 0; position,sigma,weight:  0.00000  1.00000  1.00000 
+# target mean, variance:                0                1 
+# burn-in, mcmc steps: 0 100000 
+# n temperatures: 2 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.81210  0.84853  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.81210  0.84853  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 130440  chain_type: mcmc neighbor_swap_only: 1 
+         1   800000   487404   0.609255     400000   400000          1 
+
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 2; 1; 0.0; 1.0; 1.0; 100000; 2; 1; 1; gaussian; 0.8121; 0.848528137423857; 0; 1.4142135623731; 1; gaussian; 0.8121; 1.00907569830446; 0; 4; 360; 832399; mcmc; 1; 
+# n_dimensions: 2 
+# n_peaks: 1 
+# peak 0; position,sigma,weight:  0.00000  1.00000  1.00000 
+# target mean, variance:                0                1 
+# burn-in, mcmc steps: 0 100000 
+# n temperatures: 2 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.81210  0.84853  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.41421  1.00000      gaussian  0.81210  1.00908  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 832399  chain_type: mcmc neighbor_swap_only: 1 
+         1   400000   243445  0.6086125     400000   332105  0.8302625 
+   1.41421   400000   243981  0.6099525  
+
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 2; 1; 0.0; 1.0; 1.0; 100000; 2; 1; 1; gaussian; 0.8121; 0.848528137423857; 0; 2; 1; gaussian; 0.8121; 1.2; 0; 4; 360; 783542; mcmc; 1; 
+# n_dimensions: 2 
+# n_peaks: 1 
+# peak 0; position,sigma,weight:  0.00000  1.00000  1.00000 
+# target mean, variance:                0                1 
+# burn-in, mcmc steps: 0 100000 
+# n temperatures: 2 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.81210  0.84853  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   2.00000  1.00000      gaussian  0.81210  1.20000  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 783542  chain_type: mcmc neighbor_swap_only: 1 
+         1   400000   243823  0.6095575     400000   265495  0.6637375 
+         2   400000   243658   0.609145  
+
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 2; 1; 0.0; 1.0; 1.0; 100000; 2; 1; 1; gaussian; 0.8121; 0.848528137423857; 0; 2.82842712474619; 1; gaussian; 0.8121; 1.42704853800327; 0; 4; 360; 779394; mcmc; 1; 
+# n_dimensions: 2 
+# n_peaks: 1 
+# peak 0; position,sigma,weight:  0.00000  1.00000  1.00000 
+# target mean, variance:                0                1 
+# burn-in, mcmc steps: 0 100000 
+# n temperatures: 2 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.81210  0.84853  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   2.82843  1.00000      gaussian  0.81210  1.42705  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 779394  chain_type: mcmc neighbor_swap_only: 1 
+         1   400000   243398   0.608495     400000   209275  0.5231875 
+   2.82843   400000   244011  0.6100275  
+
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 2; 1; 0.0; 1.0; 1.0; 100000; 2; 1; 1; gaussian; 0.8121; 0.848528137423857; 0; 4; 1; gaussian; 0.8121; 1.69705627484771; 0; 4; 360; 126153; mcmc; 1; 
+# n_dimensions: 2 
+# n_peaks: 1 
+# peak 0; position,sigma,weight:  0.00000  1.00000  1.00000 
+# target mean, variance:                0                1 
+# burn-in, mcmc steps: 0 100000 
+# n temperatures: 2 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.81210  0.84853  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   4.00000  1.00000      gaussian  0.81210  1.69706  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 126153  chain_type: mcmc neighbor_swap_only: 1 
+         1   400000   244249  0.6106225     400000   159001  0.3975025 
+         4   400000   243909  0.6097725  
+
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 2; 1; 0.0; 1.0; 1.0; 100000; 2; 1; 1; gaussian; 0.8121; 0.848528137423857; 0; 5.65685424949238; 1; gaussian; 0.8121; 2.01815139660892; 0; 4; 360; 972772; mcmc; 1; 
+# n_dimensions: 2 
+# n_peaks: 1 
+# peak 0; position,sigma,weight:  0.00000  1.00000  1.00000 
+# target mean, variance:                0                1 
+# burn-in, mcmc steps: 0 100000 
+# n temperatures: 2 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.81210  0.84853  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   5.65685  1.00000      gaussian  0.81210  2.01815  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 972772  chain_type: mcmc neighbor_swap_only: 1 
+         1   400000   243113  0.6077825     400000   119920     0.2998 
+   5.65685   400000   244108    0.61027  
+
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 2; 1; 0.0; 1.0; 1.0; 100000; 2; 1; 1; gaussian; 0.8121; 0.848528137423857; 0; 8; 1; gaussian; 0.8121; 2.4; 0; 4; 360; 625165; mcmc; 1; 
+# n_dimensions: 2 
+# n_peaks: 1 
+# peak 0; position,sigma,weight:  0.00000  1.00000  1.00000 
+# target mean, variance:                0                1 
+# burn-in, mcmc steps: 0 100000 
+# n temperatures: 2 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.81210  0.84853  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):   8.00000  1.00000      gaussian  0.81210  2.40000  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 625165  chain_type: mcmc neighbor_swap_only: 1 
+         1   400000   244378   0.610945     400000    88856    0.22214 
+         8   400000   243678   0.609195  
+
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 2; 1; 0.0; 1.0; 1.0; 100000; 2; 1; 1; gaussian; 0.8121; 0.848528137423857; 0; 11.3137084989848; 1; gaussian; 0.8121; 2.85409707600653; 0; 4; 360; 888935; mcmc; 1; 
+# n_dimensions: 2 
+# n_peaks: 1 
+# peak 0; position,sigma,weight:  0.00000  1.00000  1.00000 
+# target mean, variance:                0                1 
+# burn-in, mcmc steps: 0 100000 
+# n temperatures: 2 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.81210  0.84853  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  11.31371  1.00000      gaussian  0.81210  2.85410  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 888935  chain_type: mcmc neighbor_swap_only: 1 
+         1   400000   243399  0.6084975     400000    64817  0.1620425 
+   11.3137   400000   243802   0.609505  
+
+# /home/tomfy/mcmc_toy/src/mcmc_toy; 2; 1; 0.0; 1.0; 1.0; 100000; 2; 1; 1; gaussian; 0.8121; 0.848528137423857; 0; 16; 1; gaussian; 0.8121; 3.39411254969543; 0; 4; 360; 339579; mcmc; 1; 
+# n_dimensions: 2 
+# n_peaks: 1 
+# peak 0; position,sigma,weight:  0.00000  1.00000  1.00000 
+# target mean, variance:                0                1 
+# burn-in, mcmc steps: 0 100000 
+# n temperatures: 2 
+#  T, rate, Proposal(shape,W1,W2,p1):   1.00000  1.00000      gaussian  0.81210  0.84853  0.00000 
+#  T, rate, Proposal(shape,W1,W2,p1):  16.00000  1.00000      gaussian  0.81210  3.39411  0.00000 
+#  n_bins: 4 n_bins_1d: 360 
+# seed: 339579  chain_type: mcmc neighbor_swap_only: 1 
+         1   400000   243854   0.609635     400000    47286   0.118215 
+        16   400000   243922   0.609805  
+
